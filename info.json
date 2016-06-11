@@ -1,11 +1,11 @@
 
 {
-  "name": "Bullet upgrades",
+  "name": "More-Bullet-upgrades",
   "version": "0.0.1",
   "title": "Bullet upgrades Mod",
   "author": "Jocker-IL",
   "contact": "Jocker-IL@yahoo.com",
   "homepage": "https://github.com/jocker-il",
-  "description": "Bullet upgrades mod addes two more upgrade levels to bullet damage & speed.",
+  "description": "Bullet upgrades mod addes upgrade levels 7 & 8 to bullet damage & speed, just to see if I can :)",
   "dependencies": []
 }
